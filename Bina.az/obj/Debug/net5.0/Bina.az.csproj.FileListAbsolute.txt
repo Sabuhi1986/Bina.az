@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Bina.az\Bina.az\obj\Debug\net5.0\Bina.az.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bina.az\Bina.az\obj\Debug\net5.0\Bina.az.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Bina.az\Bina.az\obj\Debug\net5.0\Bina.az.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Bina.az\Bina.az\obj\Debug\net5.0\Bina.az.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Bina.az\Bina.az\obj\Debug\net5.0\Bina.az.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bina.az\Bina.az\bin\Debug\net5.0\Bina.az.exe
+C:\Users\Admin\source\repos\Bina.az\Bina.az\bin\Debug\net5.0\Bina.az.deps.json
+C:\Users\Admin\source\repos\Bina.az\Bina.az\bin\Debug\net5.0\Bina.az.runtimeconfig.json
+C:\Users\Admin\source\repos\Bina.az\Bina.az\bin\Debug\net5.0\Bina.az.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Bina.az\Bina.az\bin\Debug\net5.0\Bina.az.dll
+C:\Users\Admin\source\repos\Bina.az\Bina.az\bin\Debug\net5.0\ref\Bina.az.dll
+C:\Users\Admin\source\repos\Bina.az\Bina.az\bin\Debug\net5.0\Bina.az.pdb
+C:\Users\Admin\source\repos\Bina.az\Bina.az\obj\Debug\net5.0\Bina.az.dll
+C:\Users\Admin\source\repos\Bina.az\Bina.az\obj\Debug\net5.0\ref\Bina.az.dll
+C:\Users\Admin\source\repos\Bina.az\Bina.az\obj\Debug\net5.0\Bina.az.pdb
+C:\Users\Admin\source\repos\Bina.az\Bina.az\obj\Debug\net5.0\Bina.az.genruntimeconfig.cache
